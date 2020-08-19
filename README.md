@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-#### Portfolio [yujin0131's Resume](https://www.notion.so/Wooseong-Yoon-ce203d53709c4019957e3cc01513aa82)
 
 </br>
 
