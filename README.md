@@ -1,4 +1,4 @@
-### Hi there 👋
+### my blog -> https://ddukbaegi.tistory.com/ 👋
 <p align="">
 <a href="https://github.com/yujin0131/yujin0131">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin0131&hide=html" />
