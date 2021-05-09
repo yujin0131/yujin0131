@@ -4,11 +4,12 @@
  
  **💬 e-mail : lyujin0131@naver.com  || instagram : u_zin19**
 <p align="">
-<a href="https://github.com/yujin0131/yujin0131">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin0131&hide=html" />
-</a>
+
 <a href="https://github.com/yujin0131/yujin0131">
   <img src="https://github-readme-stats.vercel.app/api?username=yujin0131&show_icons=true&line_height=40&count_private=true&hide=contribs" alt="yujin0131's GitHub Stats" />
+</a>
+<a href="https://github.com/yujin0131/yujin0131">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin0131&hide=html" />
 </a>
 </p>
 
