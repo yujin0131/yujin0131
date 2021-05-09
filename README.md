@@ -1,4 +1,8 @@
-### my blog -> https://ddukbaegi.tistory.com/ 👋
+### Hello world! 👋
+ 
+ **🌱 my blog : https://ddukbaegi.tistory.com/**
+ 
+ **💬 e-mail : lyujin0131@naver.com  || instagram : u_zin19**
 <p align="">
 <a href="https://github.com/yujin0131/yujin0131">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin0131&hide=html" />
