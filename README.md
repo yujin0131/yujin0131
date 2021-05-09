@@ -2,7 +2,7 @@
  
  **🌱 my blog : https://ddukbaegi.tistory.com/**
  
- **💬 e-mail : lyujin0131@naver.com  || instagram : u_zin19**
+ **💬 e-mail : lyujin0131@naver.com  || instagram : [u_zin19](https://www.instagram.com/u_zin19)**
 <p align="">
 
 <a href="https://github.com/yujin0131/yujin0131">
