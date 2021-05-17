@@ -1,8 +1,8 @@
-### Hello world! 👋
+### Hello world! 🙌
  
- **🌱 my blog : [yujin's brain](https://ddukbaegi.tistory.com)**
+ **📢 my blog : [yujin's brain](https://ddukbaegi.tistory.com)**
  
- **💬 e-mail : lyujin0131@gmail.com  || instagram : [u_zin19](https://www.instagram.com/u_zin19)**
+ **📭 e-mail : lyujin0131@gmail.com  || 💬 instagram : [u_zin19](https://www.instagram.com/u_zin19)**
 <p align="">
 
 <a href="https://github.com/yujin0131/yujin0131">
