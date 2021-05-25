@@ -8,11 +8,11 @@
 <a href="https://github.com/yujin0131/yujin0131">
   <img src="https://github-readme-stats.vercel.app/api?username=yujin0131&show_icons=true&line_height=40&count_private=true&hide=contribs" alt="yujin0131's GitHub Stats" />
 </a>
-<a href="https://github.com/yujin0131/yujin0131">
+<!-- <a href="https://github.com/yujin0131/yujin0131">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin0131&hide=html" />
 </a>
 </p>
-
+-->
 <!--
 **yujin0131/yujin0131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
