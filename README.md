@@ -2,6 +2,8 @@
  
  **📢 my blog : [yujin's brain](https://ddukbaegi.tistory.com)**
  
+ **📃Resume : [Resume](https://www.jobkorea.co.kr/User/Resume/View?rNo=20099950)** 
+ 
  **📭 e-mail : lyujin0131@gmail.com  || ⭐ instagram : [u_zin19](https://www.instagram.com/u_zin19)**
 <p align="">
 
