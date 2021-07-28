@@ -1,4 +1,4 @@
-### 🙌 Hello world! 🙌
+### Hello world! 🙌
  
  **📢 my blog : [yujin's brain](https://ddukbaegi.tistory.com)**
  
