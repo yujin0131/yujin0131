@@ -17,7 +17,7 @@
 &nbsp; ![](https://github.com/yujin0131/Profile/blob/master/profile-summary-card-output/solarized/3-stats.svg)
 &nbsp; ![](https://github.com/yujin0131/Profile/blob/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
 
- 
+ <!--
 #### &nbsp;&nbsp;Stack &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A little 
 
 &nbsp; ![java_page-0001](https://user-images.githubusercontent.com/57824259/127964413-c8d5aa7a-b43b-4a04-acba-a771b2b1c09a.jpg) &nbsp; 
@@ -28,7 +28,8 @@
 ![docker_page-0001](https://user-images.githubusercontent.com/57824259/127964979-01c58c7f-cb26-4514-b57a-4f05772eb7f1.jpg) &nbsp; 
 ![oracle_page-0001](https://user-images.githubusercontent.com/57824259/127964542-66954d5e-28f1-42b0-9fa5-09da9ea9cc5e.jpg) &nbsp; 
 ![amazonaws_page-0001](https://user-images.githubusercontent.com/57824259/127964547-6a548f60-6996-43de-a470-02adc19daf06.jpg) &nbsp; 
- 
+ -->
+
 <!-- <a href="https://github.com/yujin0131/yujin0131">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin0131&hide=html" />
 </a>
