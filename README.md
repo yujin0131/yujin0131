@@ -5,8 +5,14 @@
  <!-- **📃Resume : [Resume](https://www.jobkorea.co.kr/User/Resume/View?rNo=20099950)** --> 
  
  **📭 e-mail : lyujin0131@gmail.com  || ⭐ instagram : [u_zin19](https://www.instagram.com/u_zin19)**    
- 
+</br>
 <p align="">   
+
+![](https://github.com/yujin0131/Profile/blob/master/profile-summary-card-output/solarized/0-profile-details.svg)
+&nbsp; ![](https://github.com/yujin0131/Profile/blob/master/profile-summary-card-output/solarized/3-stats.svg)
+&nbsp; ![](https://github.com/yujin0131/Profile/blob/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
+ 
+ <!-- 
  <a href="https://github.com/yujin0131/yujin0131">
   <img src="https://github-readme-stats.vercel.app/api?username=yujin0131&show_icons=true&line_height=40&count_private=true&hide=contribs" alt="yujin0131's GitHub Stats" />
 </a>
@@ -21,18 +27,6 @@
 ![docker_page-0001](https://user-images.githubusercontent.com/57824259/127964979-01c58c7f-cb26-4514-b57a-4f05772eb7f1.jpg) &nbsp; 
 ![oracle_page-0001](https://user-images.githubusercontent.com/57824259/127964542-66954d5e-28f1-42b0-9fa5-09da9ea9cc5e.jpg) &nbsp; 
 ![amazonaws_page-0001](https://user-images.githubusercontent.com/57824259/127964547-6a548f60-6996-43de-a470-02adc19daf06.jpg) &nbsp; 
- 
- <!-- 
- 
-![](https://github.com/yujin0131/Profile/blob/master/profile-summary-card-output/solarized/0-profile-details.svg)
-&nbsp; ![](https://github.com/yujin0131/Profile/blob/master/profile-summary-card-output/solarized/3-stats.svg)
-&nbsp; ![](https://github.com/yujin0131/Profile/blob/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
-
- -->
- 
-
- <!--
-
  -->
 
 <!-- <a href="https://github.com/yujin0131/yujin0131">
